@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-//dxt->2*34
+
 #define dxt string::npos
 int main(){
     string line;
