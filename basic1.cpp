@@ -17,7 +17,7 @@ int main(){
                 cout<<toprint<<endl;
             }
         }
-    }
+    } 
     return 0;
 }
 
